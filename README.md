@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrteddy106" target="blank"><img src="https://img.shields.io/twitter/follow/mrteddy106?logo=twitter&style=for-the-badge" alt="mrteddy106" /></a> </p>
 
-- 🔭 I’m currently working on [React -portfolio](https://github.com/Teddy1404/React---portfolio)
+- 🔭 I’m currently working on [Ecommerse site](https://github.com/Teddy1404/Ecommerce_sitee)
 
-- 🌱 I’m currently learning **React frameworks and python also**
+- 🌱 I’m currently learning and working on **MERN STACK**
 
 - 📫 How to reach me **aryansinghchandel1404@gmail.com**
 
