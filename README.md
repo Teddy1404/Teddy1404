@@ -1,31 +1,48 @@
-<h1 align="center">Hi 👋, I'm Aryan singh chandel</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hey 👋, I'm Aryan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teddy1404&label=Profile%20views&color=0e75b6&style=flat" alt="teddy1404" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddy1404" alt="teddy1404" /></a> </p>
+<p align="left">🌱 I’m currently using Next JS, React JS, Typescript, Node, Express JS.<br><br>Interested Roles : [Frontend, Backend, FullStack, DevRel]<br><br>Hobbies : [ Exploring new Tech-Stack, Video editing, Gaming, Animes]<br><br><br>📫 How to reach me - aryansinghchandel1404@gmail.com</p>
 
-<p align="left"> <a href="https://twitter.com/mrteddy106" target="blank"><img src="https://img.shields.io/twitter/follow/mrteddy106?logo=twitter&style=for-the-badge" alt="mrteddy106" /></a> </p>
+###
 
-- 🔭 I’m currently working on [Ecommerse site](https://github.com/Teddy1404/Ecommerce_sitee)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-- 🌱 I’m currently learning and working on **MERN STACK**
+###
 
-- 📫 How to reach me **aryansinghchandel1404@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Teddy1404&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Teddy1404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrteddy106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrteddy106" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan singh chandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan singh chandel" height="30" width="40" /></a>
-<a href="https://instagram.com/aryan_106_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan_106_aryan" height="30" width="40" /></a>
-<a href="https://discord.gg/_aryan_#9331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_aryan_#9331" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZvb2ZoYjl6cnZvNmYzamFqeXRrOXptOHlqNGN1M2o2Zml1NWR6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddy1404&show_icons=true&locale=en&layout=compact" alt="teddy1404" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddy1404&show_icons=true&locale=en" alt="teddy1404" /></p>
+<img src="https://raw.githubusercontent.com/Teddy1404/Teddy1404/output/snake.svg" alt="Snake animation" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddy1404&" alt="teddy1404" /></p>
+###
